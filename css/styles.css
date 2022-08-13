@@ -1,0 +1,40 @@
+
+
+#title{
+  background-color: rgb(245, 205, 74);
+}
+
+.sticky-top{
+    background-color: rgb(245, 205, 74);
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 2rem bold;
+}
+
+.tp-rel {
+    background-color: rgb(254, 212, 75);
+    position: relative;
+    width: 100%;
+  }
+  .tp-rel img{
+    width: 100%;
+  }
+  
+  .tp-abs {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 40%;
+    font-size: larger;
+  }
+  
+  img {
+    width: 80%;
+    display: block;
+  }
+
+  .wm{
+    right: 0;
+  }
